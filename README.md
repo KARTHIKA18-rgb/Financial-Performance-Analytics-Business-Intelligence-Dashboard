@@ -1,4 +1,4 @@
-# 📊 Financial Performance Analysis: Revenue, Profit & Business Insights
+# 📊 Financial Performance Dashboard | Python, SQL, Power BI
 
 ## 📌 Project Overview
 
