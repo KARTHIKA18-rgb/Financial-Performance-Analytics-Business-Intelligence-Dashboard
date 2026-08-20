@@ -1,8 +1,8 @@
-# 📊 Financial Performance Analytics & Business Insights 
+# 📊 Financial Performance Analysis & Business Insights 
 
 ## 📌 Project Overview
 
-**Financial Performance Analytics & Business Insights** is a data analytics project focused on analyzing financial performance across different businesses and business sectors.
+**Financial Performance Analysis & Business Insights** is a data analytics project focused on analyzing financial performance across different businesses and business sectors.
 
 The project uses **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, and Power BI** to clean, analyze, visualize, and transform financial data into meaningful business insights.
 
@@ -530,7 +530,7 @@ Future enhancements can include:
 
 # 🏁 Conclusion
 
-The **Financial Performance Analytics & Business Insights** demonstrates how financial data can be transformed into meaningful business intelligence using Python.
+The **Financial Performance Analysis & Business Insights** demonstrates how financial data can be transformed into meaningful business intelligence using Python.
 
 Through data preprocessing, exploratory data analysis, financial KPI analysis, correlation analysis, outlier detection, and interactive visualizations, the project identifies important patterns in **revenue, profitability, operating costs, returns, valuation, and business growth**.
 
